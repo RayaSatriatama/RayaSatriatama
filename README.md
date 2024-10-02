@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="77743ad2-34e8-4508-b7af-65d518fc7919" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="77743ad2-34e8-4508-b7af-65d518fc7919" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/77743ad2-34e8-4508-b7af-65d518fc7919/public_url)
