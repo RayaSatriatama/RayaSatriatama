@@ -12,13 +12,6 @@ I'm a versatile **Machine Learning Engineer**, **IoT Enthusiast**, **Game Develo
 - 👯 I’m looking to collaborate on **innovative AI, IoT, Industrial Automation, and gaming projects**
 - 📫 Reach me at: **rayasatriatama10@gmail.com**
 
-## 🛠️ My Tech Stack
-- **Machine Learning Tools**: TensorFlow, Keras, Scikit-learn, PyTorch
-- **IoT Platforms**: Arduino, Raspberry Pi, ESP
-- **Industrial Automation Tools**: PLC, SCADA, Modbus
-- **Game Development Tools**: Unity, Unreal Engine, Godot
-- **Other Tools**: Docker, Git, AWS, Azure
-
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rayasatriatama&theme=tokyonight&hide_border=false)
