@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Credly Badge](https://example.com/your-badge-image.png)](https://www.credly.com/badges/77743ad2-34e8-4508-b7af-65d518fc7919)
+[![Unity Certified Associate: Game Developer](https://www.credly.com/badges/77743ad2-34e8-4508-b7af-65d518fc7919/public_url)](https://www.credly.com/badges/77743ad2-34e8-4508-b7af-65d518fc7919/public_url)
+
