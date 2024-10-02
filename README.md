@@ -32,7 +32,7 @@ I'm a versatile <strong>Machine Learning Engineer</strong>, <strong>IoT Enthusia
   <a href="https://linkedin.com/in/rayasatriatama/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.kaggle.com/rayasatriatama" target="_blank">
+  <a href="https://www.kaggle.com/mrayasatriatama" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </div>
