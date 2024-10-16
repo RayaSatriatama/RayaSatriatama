@@ -26,6 +26,9 @@ I'm a versatile <strong>Machine Learning Engineer</strong>, <strong>IoT Enthusia
 <h3 align="center">🚀 Another Project</h3>
 
 <div align="center">
+  <a href="https://alikakafruits.my.canva.site/raya-satriatama-portofolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.kaggle.com/mrayasatriatama" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
