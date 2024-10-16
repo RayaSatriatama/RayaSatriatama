@@ -23,16 +23,21 @@ I'm a versatile <strong>Machine Learning Engineer</strong>, <strong>IoT Enthusia
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayasatriatama&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
+<h3 align="center">🚀 Another Project</h3>
+
+<div align="center">
+  <a href="https://www.kaggle.com/mrayasatriatama" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+</div>
+
 <h3 align="center">🌐 Let's Connect</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/rayasatriatama10/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> 
   </a>
   <a href="https://linkedin.com/in/rayasatriatama/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.kaggle.com/mrayasatriatama" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
 </div>
