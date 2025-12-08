@@ -13,7 +13,7 @@ I'm a versatile <strong>Machine Learning Engineer</strong>, <strong>IoT Enthusia
 <ul style="font-size:16px; line-height:1.6;">
   <li>🔭 I’m currently working on <strong>cutting-edge ML projects</strong>, <strong>IoT automation systems</strong>, <strong>industrial automation solutions</strong>, and <strong>game prototypes</strong></li>
   <li>👯 I’m looking to collaborate on <strong>innovative AI, IoT, Industrial Automation, and gaming projects</strong></li>
-  <li>📫 Reach me at: <strong>rayasatriatama10@gmail.com</strong></li>
+  <li>📫 Reach me at: <strong>rayasatriatama5@gmail.com</strong></li>
 </ul>
 
 <h3 align="center">📊 GitHub Stats</h3>
