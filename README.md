@@ -19,8 +19,14 @@ I'm a versatile <strong>Machine Learning Engineer</strong>, <strong>IoT Enthusia
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayasatriatama&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayasatriatama&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayasatriatama&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,unity,tensorflow,pytorch,arduino,raspberrypi,git,linux&theme=tokyonight" alt="Tech Stack" />
 </div>
 
 <h3 align="center">🚀 Another Project</h3>
