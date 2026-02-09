@@ -7,11 +7,11 @@
 </div>
 
 <p style="font-size:16px; line-height:1.6;">
-I'm a versatile <strong>Machine Learning Engineer</strong>, <strong>IoT Enthusiast</strong>, <strong>Game Developer</strong>, and <strong>Industrial Automation Engineer</strong> with a deep passion for using technology to push the boundaries of innovation. Whether it's building intelligent systems, connecting devices for smarter automation, crafting immersive gaming experiences, or optimizing industrial processes, I love turning ideas into reality through code.
+I'm a versatile <strong>ML/AI/Data Engineer</strong>, <strong>IoT Enthusiast</strong>, <strong>Game Developer</strong>, and <strong>Industrial Automation Engineer</strong> with a deep passion for using technology to push the boundaries of innovation. Whether it's building intelligent systems, connecting devices for smarter automation, crafting immersive gaming experiences, or optimizing industrial processes, I love turning ideas into reality through code.
 </p>
 
 <ul style="font-size:16px; line-height:1.6;">
-  <li>🔭 I’m currently working on <strong>cutting-edge ML projects</strong>, <strong>IoT automation systems</strong>, <strong>industrial automation solutions</strong>, and <strong>game prototypes</strong></li>
+  <li>🔭 I’m currently working on <strong>cutting-edge ML/AI/Data projects</strong>, <strong>IoT automation systems</strong>, <strong>industrial automation solutions</strong>, and <strong>game prototypes</strong></li>
   <li>👯 I’m looking to collaborate on <strong>innovative AI, IoT, Industrial Automation, and gaming projects</strong></li>
   <li>📫 Reach me at: <strong>rayasatriatama5@gmail.com</strong></li>
 </ul>
